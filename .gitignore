@@ -1,0 +1,21 @@
+# 1. すべて無視
+*
+
+# 2. ディレクトリだけは無視を解除する。
+
+!*/
+
+# 3. 追跡するファイル
+!.gitignore
+!.gitattributes
+!LICENSE.md
+
+# アプリ
+!ImasRandom.htm
+!css/style.css
+!js/app.js
+
+# データ
+
+!data/imas_colors.json
+!data/imas_colors.js

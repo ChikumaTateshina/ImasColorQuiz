@@ -1,0 +1,7 @@
+# build_db.py は LF で書き出すため、チェックアウトも LF に固定する。
+# （CRLF でチェックアウトされると、ビルドのたびに全行が差分になってしまう）
+* text=auto eol=lf
+
+*.xlsx binary
+*.png binary
+*.jpg binary
