@@ -9,9 +9,10 @@
 !.gitignore
 !.gitattributes
 !LICENSE.md
+!README.md
 
 # アプリ
-!ImasRandom.htm
+!index.html
 !css/style.css
 !js/app.js
 
