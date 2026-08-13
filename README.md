@@ -9,7 +9,7 @@ https://chikumatateshina.github.io/ImasColorQuiz/
 本リポジトリの著作者が権利を持つ部分は[PolyForm Noncommercial License 1.0.0](LICENSE.md) [（SPDX: `PolyForm-Noncommercial-1.0.0`）](https://polyformproject.org/licenses/noncommercial/1.0.0) で提供します．
 非営利目的であれば，利用・改変・再配布が可能です．営利目的での利用は許諾されません．
 
-- 対象: `ImasRandom.htm` / `css/` / `js/` / `tools/` のソースコード、および `data/` に含まれるデータの編集・構造
+- 対象: `index.html` / `css/` / `js/` / `tools/` のソースコード、および `data/` に含まれるデータの編集・構造
 - 再配布する際は、ライセンス本文（または上記URL）と `Required Notice:` 行を一緒に配布する必要があります
 
 「アイドルマスター」シリーズの名称，登場キャラクターの名前，およびメンバーカラーそのものに関する権利は株式会社バンダイナムコエンターテインメントほか各権利者に帰属します．
